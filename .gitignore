@@ -1,0 +1,4 @@
+dev/*
+nort_project/.env
+nort_project/db.sqlite3
+nort_project/config/__pycache__
